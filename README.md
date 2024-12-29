@@ -1,5 +1,5 @@
 # CapyTaskApp
-A IOS App using Swift where a user can create, delete to do list items with a progress bar display, account registration/login and use of Firebase to save all the data. Users can only select preset task and sign out/ delete their account!
+A IOS App using Swift where a user can create, delete to do list items with a progress bar display, account registration/login and use of Firebase to save all the data. Users can only select preset task and sign out/ delete their account! The app is very interactive and user friendly with corresponding sound effects on user app interaction!
 
 
 ![capybaraapp_icon](https://github.com/user-attachments/assets/2a6d1f56-0fad-4213-95b5-5fddd1388b5c)
